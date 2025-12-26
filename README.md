@@ -1,1 +1,6 @@
-# cuddly-octo-fortnight
+/diagrams
+/zapier
+/make
+/notion
+/screenshots
+README.md
